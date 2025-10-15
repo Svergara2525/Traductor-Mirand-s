@@ -1,2 +1,2 @@
-# Traductor-Mirand-s
+# Traductor-Mirandes
 Traductor a Lengua Mirandesa
